@@ -1,0 +1,32 @@
+.container-box{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 400px;
+    width: 250px;
+    margin: 20px;
+}
+.container img{
+    height: 80px;
+    width: 80px;
+    padding: 20px;
+    margin-left: 80px;
+}
+.container h1{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.container button{
+    height: 30px;
+    width: 120px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 65px;
+    margin-top: 50px;
+}
